@@ -1,2 +1,1 @@
-# c-
-C++ language projects/exercises.
+# Here we'll have some small problems and even projects in the c ++ language.
